@@ -138,14 +138,11 @@ unset __conda_setup
 # <<< conda initialize <<<
 
 # Aliases 
-alias patrick="mpv Videos/Clip/Patrick\ on\ a\ seahorse\ listening\ to\ fly\ me\ to\ the\ moon\ _\ HD\ Remastered.mp4"
 alias lofi="youtube-viewer -n https://www.youtube.com/watch\?v\=5qap5aO4i9A"
 alias jazz="youtube-viewer -n https://www.youtube.com/watch\?v\=Dx5qFachd3A"
-alias lukevim="mpv Videos/youtube-dl/Vim\ Diesel"
 alias welyar="youtube-viewer -n -s --pp https://youtube.com/playlist\?list\=PLTk1xe5bqN0u-8vRn1F_Ye5K4LYqwdiUH"
 alias yt="ytfzf -t"
 alias spotifyplay="spotifyd --no-daemon"
-alias vpnjp="sudo openvpn --config ~/Documents/denzel.ovpn"
 
 # Ranger
 function ranger {
