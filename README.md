@@ -1,2 +1,6 @@
 # dotfiles
-Wendy's ArchLinux Dotfiles
+Wendy's ArchLinux Dotfiles:
+- Garuda Linux 
+- Manjaro 
+
+Feel free to copy anything
